@@ -1,0 +1,45 @@
+
+
+
+Firstly, thank you so much for using my website!
+
+It's a simple piece of work but it should work well.
+
+If you need help or have any questions, please see my Spigot page:
+https://www.spigotmc.org/members/16yeldarb.36673/
+
+----------------------
+
+---=DOCUMENTATION=---
+
+----------------------
+
+CONFIG OPTIONS:
+Please see the config.php file for most options.
+
+CHANGE THE LOGO:
+Replace the logo.png file with another .png file in assets/img
+Make sure the image is called logo.png
+
+INSTALL GOOGLE CAPTCHA:
+You must obtain a site & private key from Google.
+Do this by going here and adding your website:
+https://www.google.com/recaptcha/intro/
+
+Once you have added your website, you would have been given a site and secret key.
+Enter these keys into the config found in config.php
+
+CHANGE THE FAVICON (small browser image):
+Replace the favicon-16x16.png file with another .png file in assets/img
+Make sure the image is called favicon-16x16.png AND that the image is 16x16 in dimensions.
+
+----------------------
+
+LOOKING FOR SOMETHING EXTRA OR ADDITIONAL FEATURES?
+Contact me on Spigot via a private message and we can discuss any work.
+
+--------------------------------------------------
+
+
+This product is Covered by the MIT License Copyright (c) 2018 16YELDARB
+See LICENSE.txt for more information.
